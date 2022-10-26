@@ -1,0 +1,5 @@
+.root {
+  background-image: url("../../../assets/images/weather/background.jpg");
+  min-height: 100vh;
+  background-size: cover;
+}
